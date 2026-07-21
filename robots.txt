@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nelsonmboya.github.io/reference-n0523h/sitemap.xml
